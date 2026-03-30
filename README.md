@@ -56,7 +56,7 @@ A dificuldade altera velocidades e frequência de itens (principalmente espinhos
 2. Abra o PowerShell.
 3. Acesse a pasta do projeto:
    ```powershell
-   cd "c:\Users\\Documents\codigos"
+   cd "c:\Users\Documents\codigos"
    ```
 4. Rode o jogo:
    ```powershell
